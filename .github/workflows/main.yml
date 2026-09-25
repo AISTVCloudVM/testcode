@@ -1,4 +1,4 @@
-Name: Environment Integration Test
+name: Environment Integration Test
 
 on:
   workflow_dispatch:
